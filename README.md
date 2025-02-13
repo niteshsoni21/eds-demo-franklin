@@ -2,9 +2,9 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
-
+- Preview: https://main--eds-demo-franklin--niteshsoni21.hlx.page/
+- Live: https://main--eds-demo-franklin--niteshsoni21.hlx.live/
+  
 ## Installation
 
 ```sh
